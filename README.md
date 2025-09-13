@@ -81,7 +81,7 @@ c.close()
 ```
 ## Output:
 
-![alt text](<../Screenshot 2025-09-12 115052.png>)
+![alt text](<Screenshot 2025-09-12 115052.png>)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
